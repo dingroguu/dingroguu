@@ -1,4 +1,4 @@
-### Hi there 👋
+![sipping tea](https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif)
 
 <!--
 **dingroguu/dingroguu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
